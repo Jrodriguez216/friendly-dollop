@@ -1,5 +1,5 @@
 # The Ocean Planet 
-## Winter 2023 GE Appointment
+## Winter & Spring 2023 GE Appointment:
 
 ---
 
