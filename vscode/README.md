@@ -1,3 +1,11 @@
 # VSCODE - Learning 
 
-## This line was written inside vscode. Let's see if It now appears in Github. 
+---
+
+Here, I outline resources used to get comfortable with [vscode]()
+
+**What is vscode?**
+
+**What can I do with vscode?**
+
+### 1. getting started with vscode:
